@@ -1,4 +1,4 @@
-# Python Network Security Scanner 🔍
+# Python Network Security Scanner
 
 [![Python Version](https://img.shields.io/badge/python-3.6%2B-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
