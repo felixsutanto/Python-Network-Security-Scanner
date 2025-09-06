@@ -265,17 +265,6 @@ This project demonstrates proficiency in:
 ```
 **Solution**: Reduce thread count using `-t` parameter or increase system limits.
 
-## 📊 Performance Benchmarks
-
-| Port Range | Threads | Time (seconds) | Ports/Second |
-|------------|---------|----------------|--------------|
-| 1-100      | 10      | 8.2           | 12.2         |
-| 1-100      | 50      | 3.4           | 29.4         |
-| 1-1000     | 50      | 28.7          | 34.8         |
-| 1-1000     | 100     | 19.1          | 52.4         |
-
-*Benchmarks performed on a modern laptop with gigabit internet connection.*
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
